@@ -1,0 +1,3 @@
+Two operating modes to visualize the behavior of a network:
+- real-time mode - network behaves as real devices do, with immediate real-time response for all network activities. 
+- simulation mode - user can see and control time intervals, the inner workings of data transfer, and the propagation of data across a network.
