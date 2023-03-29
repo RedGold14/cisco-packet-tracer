@@ -1,3 +1,8 @@
 Two operating modes to visualize the behavior of a network:
 - real-time mode - network behaves as real devices do, with immediate real-time response for all network activities. 
 - simulation mode - user can see and control time intervals, the inner workings of data transfer, and the propagation of data across a network.
+
+Two workspaces:
+- logical - allows users to build logical network topologies by placing, connecting, and clustering virtual network devices
+- physical - provides a graphical physical dimension of the logical network, giving a sense of scale and placement in how network devices such as
+routers, switches, and hosts would look in a real environment. The physical view also provides geographic representations of networks, including multiple cities, buildings, and wiring closets.
